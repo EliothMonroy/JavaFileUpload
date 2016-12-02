@@ -1,6 +1,6 @@
 #Java File Upload Servlet
 
-###This is a little implementation of Servlet that saves a files (*from a html input:file *) in an specified path.
+###This is a little implementation of a Servlet that saves a file (*from a html input:file*) in an specified path.
 ###Source: [Oracle Web Tutorial](https://docs.oracle.com/javaee/6/tutorial/doc/glraq.html) <3
 
 
